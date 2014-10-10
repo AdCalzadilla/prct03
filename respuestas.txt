@@ -1,0 +1,2 @@
+1.-¿Cúales son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete de Ruby y el intérprete interactivo del ejercicio anterior?
+ * El 'irb' va evaluando línea por línea el programa y lo va ejecutando, mientras que el interprete de ruby analiza el programa y después lo ejecuta. 
